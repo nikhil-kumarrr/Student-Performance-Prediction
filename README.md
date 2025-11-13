@@ -6,7 +6,7 @@ This project predicts whether a student will pass or fail based on their academi
 
 ---
 
-### Features Used 
+### Features Used :
 * Gender
 * Ethnicity
 * Parental education
@@ -19,24 +19,24 @@ This project predicts whether a student will pass or fail based on their academi
 * Absences
 * Extra activities
 ---
-# Project Workflow 
+# Project Workflow :
 ### 1. Data Cleaning 
 * Missing values handled (categorical → most frequent).
 * Numerical and categorical columns separated.
 * Outliers treated using the IQR method.
 * Count of outliers removed printed for verification.
 ---
-### 2. Encoding & Scaling 
+### 2. Encoding & Scaling :
 * Categorical features label-encoded.
 * Numerical features scaled for model training.
 ---
-### 3. Exploratory Data Analysis 
+### 3. Exploratory Data Analysis :
 * Distribution charts
 * Correlation heatmap
 * Performance comparison based on study hours and absences
 * Relationship between parental education & scores
 ---
-### Models Trained 
+### Models Trained :
 You trained two supervised learning models:
 1. Logistic Regression
 Accuracy: 100%
@@ -44,7 +44,7 @@ Accuracy: 100%
 Accuracy: 99.6%
 Best Model: Logistic Regression (based on accuracy and clean confusion matrix)
 ---
-### Evaluation Metrics 
+### Evaluation Metrics :
 For both models:
 * Accuracy
 * Precision
@@ -54,17 +54,17 @@ For both models:
 * Classification Report
 ---
 
-### Dataset
+### Dataset :
 Available on
 Kaggle : https://www.kaggle.com/datasets/desalegngeb/students-exam-scores
 
 ---
-### How the Prediction Works
+### How the Prediction Works :
 After training, the model predicts whether a student will:
 * Pass (1)
 * Fail (0)
 ---
-### Tech Stack
+### Tech Stack :
 * Python
 * Pandas
 * NumPy
@@ -72,7 +72,7 @@ After training, the model predicts whether a student will:
 * Seaborn
 * Scikit-learn
 ---
-### Project Highlights
+### Project Highlights :
 * Clean data preprocessing workflow
 * High-accuracy models
 * Clear EDA visuals
