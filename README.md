@@ -86,7 +86,6 @@ After training, the model predicts whether a student will:
 * Seaborn
 * Scikit-learn
 ---
-
 ### Project Highlights 
 * Clean data preprocessing workflow
 * High-accuracy models
