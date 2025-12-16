@@ -12,7 +12,7 @@ The app uses a trained classifier model and applies proper feature encoding to d
 
 ## How It Works
 ### 1. Dataset
-##### Uses the expanded student performance dataset including features such as:
+#### Uses the expanded student performance dataset including features such as:
 * Gender
 * Ethnicity
 * Parental education
