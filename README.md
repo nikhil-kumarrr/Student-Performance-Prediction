@@ -96,5 +96,5 @@ Kaggle : https://www.kaggle.com/datasets/desalegngeb/students-exam-scores
 ## 🌐 Live Demo
 https://studentperformancebot.streamlit.app/
 
-## Screenshots
+## 📸 Screenshots
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-14%20193357.png?raw=true)
