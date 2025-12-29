@@ -8,7 +8,7 @@ The app uses a trained classifier model and applies proper feature encoding to d
 * ✔️ Uses trained ML model (student_model.pkl)
 * ✔️ Encodes categorical features using mapping + saved columns
 * ✔️ Smooth, modern UI with a soft pink academic theme
-* ✔️ Fast predictions using Streamlit
+* ✔️ Fast predictions using Streamlit 
 
 ## How It Works
 ### 1. Dataset
